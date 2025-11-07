@@ -1,0 +1,7 @@
+{
+  "version": "cecids-manifest-1",
+  "page1Bg": "https://raw.githubusercontent.com/ManuelitoMrtz95/Greenapple/main/page1_bg.jpg",
+  "page2Bg": "https://raw.githubusercontent.com/ManuelitoMrtz95/Greenapple/main/page2_bg.jpg",
+  "fontRegular": "https://raw.githubusercontent.com/ManuelitoMrtz95/Greenapple/main/AppleSDGothicNeo-Regular.ttf",
+  "fontBold": "https://raw.githubusercontent.com/ManuelitoMrtz95/Greenapple/main/AppleSDGothicNeo-Bold.ttf"
+}
